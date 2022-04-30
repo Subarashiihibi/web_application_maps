@@ -1,4 +1,4 @@
-# Introduction to the Repository
+# Introduction to the Web_Application_Maps Repo
 The repository practiced creating web applications using Mapbox GL JS APIs. Two maps relating the US COVID-19 Data in 2020 were generated. 
 
 # Screenshots
