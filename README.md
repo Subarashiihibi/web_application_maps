@@ -2,9 +2,9 @@
 The repository practiced creating web applications using Mapbox GL JS APIs. Two maps relating the US COVID-19 Data in 2020 were generated. 
 
 # Screenshots
-![Choropleth Map](https://github.com/Subarashiihibi/web_application_maps/blob/main/img/choropleth_map.png)
+![Choropleth Map](https://subarashiihibi.github.io/web_application_maps/img/choropleth_map.png)
 
-![Proportion Map](https://github.com/Subarashiihibi/web_application_maps/blob/main/img/prop_map.png)
+![Proportion Map](https://subarashiihibi.github.io/web_application_maps/img/prop_map.png)
 
 # Sources
 The COVID-19 data comes from US Census Bureau and New York Times. Links are provided below:<br/>
